@@ -1,5 +1,6 @@
-body { background-color: #f2f8f0; font-family: 'Georgia', serif; }
-h1 { color: #222; }
+body{font-family:Arial,sans-serif;background:#eef5ff;color:#222;margin:40px}
+nav a{margin-right:15px;text-decoration:none;font-weight:bold;color:#0a58ca}
+.container{max-width:900px;margin:auto;background:white;padding:25px;border-radius:10px}
 table{border-collapse:collapse;width:100%}
-th,td{border:3px solid #878787;padding:8px}
+th,td{border:1px solid #ccc;padding:8px}
 th{background:#0a58ca;color:white}
